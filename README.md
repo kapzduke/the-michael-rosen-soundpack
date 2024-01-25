@@ -1,4 +1,4 @@
-# MindustryMod-Template
-Mindustry Mod Template
+# Hip, hop, hip hop hap
+I'm giving you all, the Michael Rosen Soundpack! (pack, pack pack)
 
-フォルダを削除したい場合はフォルダ内の".gitkeep"を消してください。
+Please don't pollute this mod with noice/plums jokes in PRs.
