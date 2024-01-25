@@ -1,6 +1,7 @@
-name: ""
-displayName: ""
-author: ""
-description: ""
-version: 0.0
-minGameVersion: 104
+name: "eggontoastithink"
+displayName: "The Michael Rosen Soundpack"
+subtitle: "Something that'll burn your ear!"
+author: "Kapzduke"
+version: "1"
+minGameVersion: "145"
+hidden: true
